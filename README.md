@@ -41,5 +41,20 @@ SRM/
 └── README.md
 
 ```
+## 🧠 How It Works
+1. Server is created using Express.js.
+2. MongoDB is used as the NoSQL database.
+3. Routes handle API requests.
+4. Controllers perform CRUD operations.
+5.Models define the database schema.
+
+## Screenshot
+![one](intern.png)
+
+
+
+### 📬 Contact
+Have any questions or want to connect?
+Reach me here: 🔗 [Linktree](https://linktr.ee/hemantsharma22?fbclid=PAQ0xDSwLbT41leHRuA2FlbQIxMQABp6bFdMywhk2GzbSiCfWfDCb8gXvykT8vF0bZEOt6SykMrXjh5t9-hKWpy3Ak_aem_0I6JJKhw2812C9Gu80zg5A) - All My Links
 
 
