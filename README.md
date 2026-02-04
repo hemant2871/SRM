@@ -49,7 +49,7 @@ SRM/
 5.Models define the database schema.
 
 ## Screenshot
-![one](intern.png)
+![one](srm.png)
 
 
 
