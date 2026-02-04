@@ -1,6 +1,6 @@
 # 🗄️ SRM – NoSQL Lab Project
 
-SRM is a **college-level NoSQL project** developed to understand and implement **NoSQL database concepts**.  
+Student Record Manager is a **college-level NoSQL project** developed to understand and implement **NoSQL database concepts**.  
 The project focuses on performing basic **CRUD operations** using a NoSQL database in a simple and structured way.
 
 ---
